@@ -1,0 +1,34 @@
+﻿  admin.cpp
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(719,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(817,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(952,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1050,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1388,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1482,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1507,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1619,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1643,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1720,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(1950,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(2014,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(2122,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(2219,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(2353,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\admin.cpp(2450,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  postman.cpp
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\postman.cpp(382,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\postman.cpp(479,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\postman.cpp(613,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\postman.cpp(710,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  user.cpp
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(40,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(174,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(698,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(739,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(1064,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(1161,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(1295,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022CppExp_3client\2022CppExp_3client\user.cpp(1392,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  2022CppExp_3client.vcxproj -> D:\Cproject\2022CppExp_3client\x64\Debug\2022CppExp_3client.exe
