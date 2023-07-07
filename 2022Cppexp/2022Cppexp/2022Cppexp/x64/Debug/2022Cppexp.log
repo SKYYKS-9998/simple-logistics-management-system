@@ -1,0 +1,10 @@
+﻿  user.cpp
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(41,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(162,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(621,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(664,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(890,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(990,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(1127,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Cproject\2022Cppexp\2022Cppexp\2022Cppexp\user.cpp(1227,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2022Cppexp.vcxproj -> D:\Cproject\2022Cppexp\2022Cppexp\x64\Debug\2022Cppexp.exe
